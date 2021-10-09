@@ -6,4 +6,4 @@ Link: [https://crytponic.web.app](https://crytponic.web.app).
 
 #### HomePage
 
-![HomePage](https://ibb.co/fNrKY12)
+![HomePage](https://i.ibb.co/YdfK7R3/cryp-homepage.png)
