@@ -1,9 +1,9 @@
 # Live Website
 
-Link:[https://crytponic.web.app](https://crytponic.web.app).
+Link: [https://crytponic.web.app](https://crytponic.web.app).
 
 ## ScreenShots
 
-### HomePage
+#### HomePage
 
-![movieApp](https://nimb.ws/sza6dT)
+![HomePage](https://ibb.co/fNrKY12)
